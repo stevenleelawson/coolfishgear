@@ -1,4 +1,10 @@
 body {
   background-color: rgb(110, 187, 208);
   background-image: url("extremefishing.jpeg");
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+p {
+  font-style: italic;
 }
